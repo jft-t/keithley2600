@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="keithley2600",
+    name="mykeithleylib",
     version="v2.0.2",
     description="Full Python driver for the Keithley 2600 series.",
     url="https://github.com/OE-FET/keithley2600.git",
